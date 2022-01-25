@@ -1,0 +1,1 @@
+# Flutter-OCR-Recognition-QR-Code-Reader-Face-Detection-with-Happiness-Prediction-Mobile-App
